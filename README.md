@@ -16,7 +16,7 @@ My goal is to provide comprehensive solutions that are both functional and aesth
 
 <h1></h1>
 
-[![TALK TO ME](https://img.shields.io/badge/TALK_TO_ME-%231a1a1a?style=flat&logo=gmail&logoColor=white)](michaelpcs10@icloud.com)  [![SEE MORE OF MY WORK](https://img.shields.io/badge/SEE_MORE_OF_MY_WORK-%231a1a1a?style=flat&logo=github&logoColor=white)](https://github.com/userMichaelS)‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+[![TALK TO ME](https://img.shields.io/badge/TALK_TO_ME-%231a1a1a?style=flat&logo=gmail&logoColor=white)](https://www.icloud.com/michaelpcs10@icloud.com)  [![SEE MORE OF MY WORK](https://img.shields.io/badge/SEE_MORE_OF_MY_WORK-%231a1a1a?style=flat&logo=github&logoColor=white)](https://github.com/userMichaelS)‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
   ‎‎<img alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
