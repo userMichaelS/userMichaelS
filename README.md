@@ -1,8 +1,7 @@
 
 <h1>Howdy!</h1>
 
-Currently, I am dedicated to developing projects focused on creating and enhancing websites, with an emphasis on interface design and construction. Additionally, I am expanding my knowledge to better understand the structures and processes that support the functionality of websites, aiming to become a more well-rounded professional capable of working across all layers of development, seeking a comprehensive and integrated view of the process.<br>
-My goal is to provide comprehensive solutions that are both functional and aesthetic, ensuring a superior user experience and excellent performance. I stay updated with the latest trends and best practices in the industry to deliver innovative and high-quality products!<br>
+Currently, I am dedicated to developing projects focused on creating and enhancing websites, with an emphasis on interface design and construction. Additionally, I am expanding my knowledge to better understand the structures and processes that support the functionality of websites, aiming to become a more well-rounded professional capable of working across all layers of development, seeking a comprehensive and integrated view of the process. My goal is to provide comprehensive solutions that are both functional and aesthetic, ensuring a superior user experience and excellent performance. I stay updated with the latest trends and best practices in the industry to deliver innovative and high-quality products!<br>
 
 <h1></h1>
 
